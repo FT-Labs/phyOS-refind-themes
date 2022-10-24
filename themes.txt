@@ -1,2 +1,3 @@
 rEFInd-minimal
 rEFInd-glassy
+rEFInd-reddish
